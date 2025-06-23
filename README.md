@@ -5,7 +5,7 @@ The task involves detecting and classifying various types of fruits from still i
 
 ---
 
-## 📝 Competition Description
+## Competition Description
 
 In this Kaggle competition, participants are provided with a dataset of labeled images containing different kinds of fruits.  
 The goal is to build an object detection model that accurately detects and classifies fruit instances with high mAP performance.
@@ -15,4 +15,4 @@ The goal is to build an object detection model that accurately detects and class
 - Metric: **mean Average Precision (mAP@0.5)**.
 
 ## Submission link
-- https://www.kaggle.com/code/letien41/submission
+- [Submission](https://www.kaggle.com/code/letien41/submission) 

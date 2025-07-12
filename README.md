@@ -1,7 +1,7 @@
 # Fruit Detection using YOLO
 
 This repository contains the official implementation of our submission to the **Kaggle competition: [Fruit Object Detection](https://www.kaggle.com/competitions/2425-ii-ait-3002-2-object-detection)**.  
-The goal is to build a fruit detection system that identifies and classifies fruits from static images using the YOLOv11-l model.
+The goal is to build a fruit detection system that identifies and classifies fruits from static images using the YOLOv11l model.
 
 ---
 
